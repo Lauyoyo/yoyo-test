@@ -33,11 +33,11 @@ such as:
 
 - ### **5. Install App**
 
-- ## **6. Running the Flask server**
+- ### **6. Running the Flask server**
 - python app.py
 - By default, it listens to http://127.0.0.1:3000/ and waits for Webhook events
 
-- ## **7. Start Server**
+- ### **7. Start Server**
 - npx smee -u Webhook Proxy URL -t http://localhost:3000/api/webhook
 
 - ## Test
